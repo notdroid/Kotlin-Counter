@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinFirst</string>
+    <string name="hi_from_android">0</string>
+    <string name="toast_button">Toast</string>
+    <string name="count_button">Count</string>
+    <string name="random_button">Random</string>
+    <string name="random_heading">This is a random heading</string>
+
+</resources>
